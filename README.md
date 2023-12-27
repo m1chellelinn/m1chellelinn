@@ -1,5 +1,3 @@
-# Temporary Portfolio
-
 # 👋 Welcome! Here's a bit about me
 <details>
   <summary> I am a second year computer engineering student at UBC.
