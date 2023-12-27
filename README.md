@@ -1,17 +1,19 @@
-<p id="profile-picture" align="center">
+# 👋 Welcome! Here's a bit about me
+In my second year of computer engineering at UBC, I'm always ready to learn new things about computer software and hardware. From the UBC Solar design team, I developed a passion and awe for the size and compexity of our software, firmware, and circuits. This motivates me to try to learn all about them. 
+Below, you can find the details of most (if not all) of my projects. Thank you for reviewing my portfolio! 😎
+
+<p id="profile-picture" align="left">
   <img src="https://github.com/m1chellelinn/m1chellelinn/blob/main/me.jpg" width="400" height="400">
 </p>
 
 ### [🖊️ Resume](https://drive.google.com/file/d/1EUkp7UoIuRPeIUY1dyqDHfLYXq3VJ5aJ/view?usp=sharing) // [📩 Email](mailto:michaellin0902@gmail.com) // [📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)
 
 
-# About Me
 
----
 
 # All My Past Projects
 
----
+
 
 ### Personal Projects
 
