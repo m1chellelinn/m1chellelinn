@@ -1,12 +1,16 @@
-# 👋 Welcome! Here's a bit about me
+# 👋 Welcome! 
+Below, you can find the details of most (if not all) of my projects. Thanks for reviewing my portfolio! 😎
+# A bit about me
 <details>
   <summary> I am a second year computer engineering student at UBC.
   I am fast-learning, hard-working, and I enjoy working with a team of people. I have a passion for computer hardware and software that stems from being a member of the UBC Solar student design team.
   </summary>
-      From this short time studying at UBC, I’m already competent in languages such as C, C++, Java, Python, Verilog; and practices such as testing, thread safety, documentation, and much more. At UBC Solar, I’m constantly awed by the size and complexity of circuits and firmware that go into controlling the solar car battery I’m working on.
+  
+  - From this short time studying at UBC, I’m already competent in languages such as C, C++, Java, Python, Verilog; and practices such as testing, thread safety, documentation, and much more. At UBC Solar, I’m constantly awed by the size and complexity of circuits and firmware that go into controlling the solar car battery I’m working on.
+  - The picture below is one of me playing the piano for my highschool's jazz band! Apart from school, I enjoy playing music, drawing, and casual sports like biking, skiing, and swimming.
 </details>
 
-Below, you can find the details of most (if not all) of my projects. Thanks for reviewing my portfolio! 😎
+
 
 <p id="me, playing piano for our high school’s jazz band" align="left">
 <img src="https://github.com/m1chellelinn/m1chellelinn/blob/main/me.jpg" width="400" height="400">
