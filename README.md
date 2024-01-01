@@ -65,8 +65,11 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 ### 🏫 UBC Course Projects
 
 ---
+(All the code for course projects are available upon request!)
 
-**[Client-Server Simulation Implementation](https://github.com/m1chellelinn/Client-Server-Simulation-Implementation) — CPEN221**
+&nbsp;
+
+**Client-Server Simulation Implementation — CPEN221**
 
 - Spearheaded development of our Java program by constructing a model of interactions between the client, “message handler,” and server.
 - Ensured our team’s success in meeting the deadline by listing components of our implementation and dividing them to me and my teammates: Mir Afeef and Luc Forbes.
@@ -74,7 +77,7 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 - Applied professional practices such as unit & integration testing, thread-safe programming, and class & method documentation to produce clean code.
 
 
-**[Reduced Instruction-Set Computer (RISC)](https://github.com/m1chellelinn/Reduced-Instruction-Set-Computer-Implementation) — CPEN211**
+**Reduced Instruction-Set Computer (RISC) — CPEN211**
 
 - Programmed a Turing-complete RISC CPU in System Verilog in 4 weeks by applying computer hardware principles.
 - Efficiently utilized the pair-programming technique with my partner, Matthew Frew, to build a correct implementation and significantly reduce debugging time.
