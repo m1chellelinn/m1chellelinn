@@ -27,6 +27,11 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 **Typing Game with Live Feedback, Scores, and a Simple UI**
 - 🚧 Work in progress!
 
+
+
+
+&nbsp;
+
 ### ☀️ UBC Solar Projects
 
 ---
@@ -50,6 +55,12 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 
 - Collaborated with electronics team executive to finalize placement of a new, bigger DC-DC converter on the car battery’s electronic control unit (ECU).
 - Applied 3D design skills in Solidworks by modifying ECU housing.
+
+
+
+
+
+&nbsp;
 
 ### 🏫 UBC Course Projects
 
