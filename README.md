@@ -24,9 +24,11 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 
 ---
 
-**Typing Game with Live Feedback, Scores, and a Simple UI**
-- 🚧 Work in progress!
-
+**[Python Typing Game with a GUI, Scores, and Live Feedback](https://github.com/m1chellelinn/typing-game)**
+- Applied quick learning skills to complete this project within 1.5 weeks, or 14 hours
+- From zero experience, learned Python syntax to be able to implement correct programs with good style
+- Practiced knowledge of external libraries and advanced Python syntax to implement a typing game inspired by [monkeytype.com](https://monkeytype.com)
+- Employed Python practices: virtual environments, unit-test, and Docstrings to ensure code usability and readability
 
 
 
