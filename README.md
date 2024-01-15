@@ -67,11 +67,11 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 ### 🏫 UBC Course Projects
 
 ---
-(All the code for course projects are available upon request!)
+(Notes: To comply with UBC course policy, I have hidden the source code for my projects. )
 
 &nbsp;
 
-**Client-Server Simulation Implementation — CPEN221**
+[**Client-Server Simulation Implementation — CPEN221**](https://cpen221ubc.notion.site/MP3-IoT-Data-Analytics-f2b1469b01984c2aa9b7dd673dc6b74f)
 
 - Spearheaded development of our Java program by constructing a model of interactions between the client, “message handler,” and server.
 - Ensured our team’s success in meeting the deadline by listing components of our implementation and dividing them to me and my teammates: Mir Afeef and Luc Forbes.
@@ -87,6 +87,6 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 - Went beyond course expectations and optimized our RISC implementation to achieve a CPU performance that ranked top 10 in our class.
 
 
-**Computations & Simulations with Graphs — CPEN221**
+[**Computations & Simulations with Graphs — CPEN221**](https://cpen221ubc.notion.site/MP2-Graphs-Sea-Levels-Mind-Boggles-85789d5808aa4ebf8ab1f30e88059a1a)
 - Programmed two robust implementations of mathematical graphs to simulate sea levels, calculate connections, and more.
 - Applied leadership skills by setting team meetings and splitting tasks to my teammates: Mir Afeef and Luc Forbes.
