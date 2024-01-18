@@ -12,10 +12,6 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 
 
 
-<p id="me, playing piano for our high school’s jazz band" align="left">
-<img src="https://github.com/m1chellelinn/m1chellelinn/blob/main/me.jpg" width="400" height="400">
-</p>
-
 ### [🖊️ Resume](https://drive.google.com/file/d/1EUkp7UoIuRPeIUY1dyqDHfLYXq3VJ5aJ/view?usp=sharing)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📩 Email](mailto:michaellin0902@gmail.com)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)
 
 # All My Past Projects
