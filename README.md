@@ -1,7 +1,7 @@
 # 👋 Welcome! 
 Below, you can find the details of most (if not all) of my projects. Thanks for reviewing my portfolio! 😎
 # A bit about me
-
+### [🖊️ Resume](https://drive.google.com/file/d/1EUkp7UoIuRPeIUY1dyqDHfLYXq3VJ5aJ/view?usp=sharing)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📩 Email](mailto:michaellin0902@gmail.com)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)
 <details>
   <summary> I am a second-year computer engineering student at UBC.
   I am fast-learning and hard-working, and I enjoy working with a team of people. I have a passion for computer hardware and software that stems from being a member of the UBC Solar student design team.
@@ -12,8 +12,6 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 </details>
 
 
-# My contacts
-### [🖊️ Resume](https://drive.google.com/file/d/1EUkp7UoIuRPeIUY1dyqDHfLYXq3VJ5aJ/view?usp=sharing)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📩 Email](mailto:michaellin0902@gmail.com)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)
 
 &nbsp;
 
