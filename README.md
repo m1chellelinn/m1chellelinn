@@ -18,7 +18,7 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 &nbsp;
 
 
-# All My Past Projects
+# All My Past & Current Projects
 
 ### 👨‍💻 Personal Projects
 
@@ -65,7 +65,6 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 
 
 
-
 &nbsp;
 
 ### 🏫 UBC Course Projects
@@ -75,22 +74,33 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 
 &nbsp;
 
-[**Client-Server Simulation Implementation — CPEN221**](https://cpen221ubc.notion.site/MP3-IoT-Data-Analytics-f2b1469b01984c2aa9b7dd673dc6b74f)
+[**Real-Time Client-Server IoT — CPEN221**](https://cpen221ubc.notion.site/MP3-IoT-Data-Analytics-f2b1469b01984c2aa9b7dd673dc6b74f)
 
-- Spearheaded development of our Java program by constructing a model of interactions between the client, “message handler,” and server.
-- Ensured our team’s success in meeting the deadline by listing components of our implementation and dividing them to me and my teammates: Mir Afeef and Luc Forbes.
-- Implement a multithreaded server that automatically optimizes computation to serve multiple clients without compromise.
-- Applied professional practices such as unit & integration testing, thread-safe programming, and class & method documentation to produce clean code.
-
+- Established an abstract model of client-server interactions to identify components to implement 
+- Created a distributed system connected via sockets to enable communication for a network of IoT entities
+- Developed object-oriented, multi-tiered data processing server using multithreaded programming 
+- Ensured project quality and timely delivery by motivating and organizing teammates
+- Ensured project quality by carrying out high-coverage unit & integration testing suites
 
 **Reduced Instruction-Set Computer (RISC) — CPEN211**
 
-- Programmed a Turing-complete RISC CPU in System Verilog in 4 weeks by applying computer hardware principles.
-- Efficiently utilized the pair-programming technique with my partner, Matthew Frew, to build a correct implementation and significantly reduce debugging time.
-- Rigorously tested and simulated our RISC by building testbenches for each of its components in Modelsim.
-- Went beyond course expectations and optimized our RISC implementation to achieve a CPU performance that ranked top 10 in our class.
+- Programmed a Turing-complete RISC CPU in SystemVerilog by applying embedded software, digital logic, and hardware principles
+- Reduced debugging time by 70% through adopting the pair-programming technique with my partner
+- Enabled adoption of a custom 16-bit instruction-set architecture by deploying a software finite state machine controller
+- Executed our program embedded onto an Intel SoC FPGA to carry out high-coverage unit & integration testing suites
+- Increased CPU performance by 180% relative to others and ranked top 10 in class by optimizing RISC execution steps
 
 
 [**Computations & Simulations with Graphs — CPEN221**](https://cpen221ubc.notion.site/MP2-Graphs-Sea-Levels-Mind-Boggles-85789d5808aa4ebf8ab1f30e88059a1a)
-- Programmed two robust implementations of mathematical graphs to simulate sea levels, calculate connections, and more.
-- Applied leadership skills by setting team meetings and splitting tasks to my teammates: Mir Afeef and Luc Forbes.
+- Practiced Java object-oriented programming concepts to create two robust implementations of mathematical graphs
+- Applied leadership skills by setting team meetings and splitting tasks to teammates
+
+**Arduino-Driven Autonomous Claw, APSC101**
+- Constructed an embedded Arduino program to autonomously retrieve objects with sensors, actuators, and switches 
+- Achieved a correct, well-rounded solution by utilizing C programming skills and the formal engineering design process 
+- Scored 100% at the class competition by testing and fine-tuning the embedded sensing algorithms 
+
+**Simon Says on Arduino, APSC160**
+- Implemented embedded C program on an Arduino to play a game of Simon Says with LEDs, switches, and buttons
+- Accelerated coding process and eliminated debugging time by creating program flowcharts 
+
