@@ -1,19 +1,19 @@
 # 👋 Welcome! 
 Below, you can find the details of most (if not all) of my projects. Thanks for reviewing my portfolio! 😎
 # A bit about me
-### [🖊️ Resume](https://drive.google.com/file/d/1EUkp7UoIuRPeIUY1dyqDHfLYXq3VJ5aJ/view?usp=sharing)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📩 Email](mailto:michaellin0902@gmail.com)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)
+### [🖊️ Resume](https://drive.google.com/file/d/1EUkp7UoIuRPeIUY1dyqDHfLYXq3VJ5aJ/view?usp=sharing)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📩 Email](mailto:michaellin0902@gmail.com)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[🎨 Artworks](https://github.com/m1chellelinn/m1chellelinn/blob/939ea291932c3ab1c58e49702ff3c69864b2a7f8/artwork/description.md)
+
+ I am fast-learning and hard-working, and I enjoy working with a team of people. I have a passion for computer hardware and software that stems from being a member of the[ UBC Solar student design team](https://ubcsolar.com/). 
+ 
+ Outside of Solar and classes, I enjoy [landscape painting on a digital format](https://github.com/m1chellelinn/m1chellelinn/blob/939ea291932c3ab1c58e49702ff3c69864b2a7f8/artwork/description.md), music, and casual sports!
 <details>
-  <summary> I am a second-year computer engineering student at UBC.
-  I am fast-learning and hard-working, and I enjoy working with a team of people. I have a passion for computer hardware and software that stems from being a member of the UBC Solar student design team.
+  <summary> Read more
   </summary>
-  
   - From this short time studying at UBC, I’m already competent in languages such as C, C++, Java, Python, and SystemVerilog; and practices such as embedded programming basics, testing, thread safety, documentation, and much more. At UBC Solar, I’m constantly awed by the size and complexity of circuits and firmware that go into controlling the solar car battery I’m working on.
-  - The picture below is one of me playing the piano for my high school's jazz band! Apart from school, I enjoy playing music, drawing, and casual sports like biking, skiing, and swimming.
+  - I enjoy playing the trombone and piano. My profile picture to the left is actually taken from one of our band concerts.
+  - I love going cycling, skiing (but it's so expensive), and swimming.
 </details>
 
-
-
-&nbsp;
 
 &nbsp;
 
