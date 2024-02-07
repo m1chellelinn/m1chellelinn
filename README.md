@@ -9,9 +9,12 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 <details>
   <summary> Read more
   </summary>
+ 
   - From this short time studying at UBC, I’m already competent in languages such as C, C++, Java, Python, and SystemVerilog; and practices such as embedded programming basics, testing, thread safety, documentation, and much more. At UBC Solar, I’m constantly awed by the size and complexity of circuits and firmware that go into controlling the solar car battery I’m working on.
+ 
   - I enjoy playing the trombone and piano. My profile picture to the left is actually taken from one of our band concerts.
-  - I love going cycling, skiing (but it's so expensive), and swimming.
+
+  - I love cycling to school and around Vancouver, skiing at Cypress and Seymour (but it's so expensive), and swimming.
 </details>
 
 
