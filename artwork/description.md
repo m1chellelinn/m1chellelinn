@@ -1,4 +1,4 @@
-# All of my artwork
+# 🎨 All of my Artworks
 ### Notes:
 - All images below are original artworks, made by me!
 - These are the artworks that I am most proud of. The dates range from January 2021 to present
