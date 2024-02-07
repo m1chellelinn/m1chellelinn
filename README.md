@@ -38,8 +38,12 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 
 ---
 
-**Improvements to CI/CD on GitHub** 
-- 🚧 Work in progress! 
+**Github CI/CD Pipeline Automations** 
+- Eliminated manual file update work by developing automation tools with Git and GitHub Actions
+- Automatically managed file version descriptions by creating and executing Python scripts in a Linux environment
+- Enhanced and formalized build process for embedded C source files by using PlatformIO build tools  
+- Ensured code quality and correctness by communicating decisions, considerations, and drawbacks via code-reviews 
+
 
 **Ventilation Intakes for a Battery Pack**
 
