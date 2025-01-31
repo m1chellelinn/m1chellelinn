@@ -1,21 +1,16 @@
 # 👋 Welcome! 
-Below, you can find the details of most (if not all) of my projects. Thanks for reviewing my portfolio! 😎
-# A bit about me
-### [🖊️ Resume](https://drive.google.com/file/d/1EUkp7UoIuRPeIUY1dyqDHfLYXq3VJ5aJ/view?usp=sharing)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📩 Email](mailto:michaellin0902@gmail.com)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[🎨 Artworks](https://github.com/m1chellelinn/m1chellelinn/blob/939ea291932c3ab1c58e49702ff3c69864b2a7f8/artwork/description.md)
-
- I am fast-learning and hard-working, and I enjoy working with a team of people. I have a passion for computer hardware and software that stems from being a member of the[ UBC Solar student design team](https://ubcsolar.com/). 
+Below, you can find the details of most (if not all) of my projects. Thank you for reviewing my portfolio! 😎
+ I'm a computer engineering student interested in low-level software & computer hardware, and I love diving deep into complex problems and finding interesting solutions. From my experiences at FORM Swim, UBC Solar, and in my classes, I've always been intrigued by the infinite number of functionalities that embedded software and computer hardware can achieve. I loved learning all about each of these systems that I've worked on, and I'm sure that same goes for all the systems that I'll work on in the future. 
  
- Outside of Solar and classes, I enjoy [landscape painting on a digital format](https://github.com/m1chellelinn/m1chellelinn/blob/939ea291932c3ab1c58e49702ff3c69864b2a7f8/artwork/description.md), music, and casual sports!
 <details>
-  <summary> Read more
+  <summary> More
   </summary>
- 
-  - From this short time studying at UBC, I’m already competent in languages such as C, C++, Java, Python, and SystemVerilog; and practices such as embedded programming basics, testing, thread safety, documentation, and much more. At UBC Solar, I’m constantly awed by the size and complexity of circuits and firmware that go into controlling the solar car battery I’m working on.
- 
   - I enjoy playing the trombone and piano. My profile picture to the left is actually taken from one of our band concerts.
 
   - I love cycling to school and around Vancouver, skiing at Cypress and Seymour (but it's so expensive), and swimming.
 </details>
+
+### [🖊️ Resume](https://drive.google.com/file/d/1RpNukfM-BgrrIbv0eEy-YcHyU9EkrGKZ/view?usp=drive_link)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📩 Email](mailto:michaellin0902@gmail.com)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[🎨 Artworks](https://github.com/m1chellelinn/m1chellelinn/blob/939ea291932c3ab1c58e49702ff3c69864b2a7f8/artwork/description.md)
 
 
 &nbsp;
@@ -23,15 +18,31 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 
 # All My Past & Current Projects
 
-### 👨‍💻 Personal Projects
+### 🏊 [FORM Swim](https://www.formswim.com/) Projects
+---
 
+At form, I worked with the Software QA team to continuously test & validate FORM's embedded firmware and mobile software. 
+More interestingly, I proposed and led the development of an internal tool -- QA Terminal.
+
+Sorry, the source code for this project is not available. 
+
+**QA Terminal**
+- Led the development of this Python-based GUI application to combine 10+ critical testing functions and accelerate testing
+- Demonstrated a passion for learning by independently mastering 4 new BLE, GUI, and cloud libraries to innovate new functionality
+- Developed a proprietary Bluetooth Low-Energy (BLE) Python API for FORM devices to facilitate remote control & file transfer 
+- Leveraged AWS services and embedded C++ utilities to enable rapid firmware deployment and verification
+- Optimized and increased USB-Serial data processing speed by 80% (compared to previous tools) to enable faster insights 
+
+
+### 👨‍💻 Personal Projects
 ---
 
 **[Python Typing Game with a GUI, Scores, and Live Feedback](https://github.com/m1chellelinn/typing-game)**
-- Applied quick learning skills to complete this project within 1.5 weeks, or 14 hours
-- From zero experience, learned Python syntax to be able to implement correct programs with good style
-- Practiced knowledge of external libraries and advanced Python syntax to implement a typing game inspired by [monkeytype.com](https://monkeytype.com)
-- Employed Python practices: virtual environments, unit-test, and Docstrings to ensure code usability and readability
+- Built a live-responding graphical typing game to expand Python knowledge and exercise programming best practices
+- Leveraged TkInter library knowledge to construct an efficient, responsive GUI for the typing game 
+- Designed optimized algorithms to compute and display user statistics in real time without consuming significant system resources
+- Employed unit tests, virtual environments, and Docstrings to ensure code correctness, readability, and changeability
+
 
 
 
@@ -47,7 +58,6 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 - Enhanced and formalized build process for embedded C source files by using PlatformIO build tools  
 - Ensured code quality and correctness by communicating decisions, considerations, and drawbacks via code-reviews 
 
-
 **Ventilation Intakes for a Battery Pack**
 
 - Led the design of custom 3D-printed ventilation intakes for the Solar car battery to ensure sufficient cooling airflow through the battery.
@@ -60,12 +70,6 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 - Applied problem-solving skills by resolving difficult design elements demanded by electronics team.
 - Efficiently communicated design choices, feasibility, and performance to team executives.
 
-**Fitting a DC-DC Converter**
-
-- Collaborated with electronics team executive to finalize placement of a new, bigger DC-DC converter on the car battery’s electronic control unit (ECU).
-- Applied 3D design skills in Solidworks by modifying ECU housing.
-
-
 
 
 &nbsp;
@@ -73,17 +77,30 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 ### 🏫 UBC Course Projects
 
 ---
-(Notes: To comply with UBC course policy, I have hidden the source code for my projects. )
+(Notes: To comply with UBC course policy, I have hidden the source code for my course projects. However, they are available upon request! )
 
 &nbsp;
 
-[**Real-Time Client-Server IoT — CPEN221**](https://cpen221ubc.notion.site/MP3-IoT-Data-Analytics-f2b1469b01984c2aa9b7dd673dc6b74f)
+**Hardware Acceleration on an FPGA Embedded Processor — CPEN311**
+- Utilized Intel FPGA IP to construct an embedded Nios-II processor that can execute C programs on an Altera FPGA chip
+- Engineered hardware SystemVerilog component to perform Direct Memory Access to on- and off-chip RAM 
+- Accelerated matrix-multiplication speed by implementing another hardware component to compute without CPU overhead
+- Validated functionality of embedded processor by RTL simulation with Modelsim and then synthesizing it onto the DE1-SoC FPGA
+- Designed C program to manage matrix multiplication on existing neural network weights to interpret binary images, and ntegrated hardware components with embedded processor to enable starting & stopping hardware accelerator in C code 
+ 
+**Unix-like Memory System -- CPEN212**
+- Implemented a model memory management system in C++ to run on a Linux machine 
+- Engineered heap allocation algorithm to allocate, free, reallocate, coalesce manually-managed memory
+- Engineered virtual memory system to provide virtual addresses to users and optimize RAM usage by offloading to disk
+- Utilized GNU Make and GDB to compile and debug the memory system, ensuring 90%+ code coverage 
 
-- Established an abstract model of client-server interactions to identify components to implement 
-- Created a distributed system connected via sockets to enable communication for a network of IoT entities
-- Developed object-oriented, multi-tiered data processing server using multithreaded programming 
-- Ensured project quality and timely delivery by motivating and organizing teammates
-- Ensured project quality by carrying out high-coverage unit & integration testing suites
+[**Real-Time Client-Server IoT — CPEN221**](https://cpen221ubc.notion.site/MP3-IoT-Data-Analytics-f2b1469b01984c2aa9b7dd673dc6b74f)
+- Constructed a client-server model to allow socket communication over a network of simulated IoT entities 
+- Established an abstract model of client-server interactions in UML to provide a starting point for implementation 
+- Developed multithreaded server implementation to maximize service-handling capability for the local machine
+- Implemented data-processing algorithm with real-time guarantees to ensure high “quality of service” metrics for clients 
+- Increased server capability further by offloading excessive server load onto AWS Lambda
+
 
 **Reduced Instruction-Set Computer (RISC) — CPEN211**
 
