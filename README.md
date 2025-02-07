@@ -43,8 +43,10 @@ Sorry, the source code for this project is not available.
 - Designed optimized algorithms to compute and display user statistics in real time without consuming significant system resources
 - Employed unit tests, virtual environments, and Docstrings to ensure code correctness, readability, and changeability
 
-
-
+**[🚧Running DOOM on the DE1-SoC](https://github.com/m1chellelinn/de1-soc_hps_things)**
+Note: this project is currently a work-in-progress.
+- Aiming to run DOOM on the DE1-SoC board, which features a Cyclone V chip, containing an ARM Cortex A-9 processor and an FPGA fabric
+- Researching ways to run the game logic on the ARM processor, while the FPGA handles rendering
 
 &nbsp;
 
