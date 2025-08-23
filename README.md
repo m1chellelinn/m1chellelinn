@@ -1,16 +1,8 @@
-# 👋 Welcome! 
-Below, you can find the details of most (if not all) of my projects. Thank you for reviewing my portfolio! 😎
- I'm a computer engineering student interested in low-level software & computer hardware, and I love diving deep into complex problems and finding interesting solutions. From my experiences at FORM Swim, UBC Solar, and in my classes, I've always been intrigued by the infinite number of functionalities that embedded software and computer hardware can achieve. I loved learning all about each of these systems that I've worked on, and I'm sure that same goes for all the systems that I'll work on in the future. 
- 
-<details>
-  <summary> More
-  </summary>
-  - I enjoy playing the trombone and piano. My profile picture to the left is actually taken from one of our band concerts.
 
-  - I love cycling to school and around Vancouver, skiing at Cypress and Seymour (but it's so expensive), and swimming.
-</details>
+Below, you can find the details of most (if not all) of my projects. Thanks for visiting!
 
-### [🖊️ Resume](https://drive.google.com/file/d/1RpNukfM-BgrrIbv0eEy-YcHyU9EkrGKZ/view?usp=drive_link)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📩 Email](mailto:michaellin0902@gmail.com)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[🎨 Artworks](https://github.com/m1chellelinn/m1chellelinn/blob/939ea291932c3ab1c58e49702ff3c69864b2a7f8/artwork/description.md)
+
+### [🖊️ Resume](https://drive.google.com/file/d/1RpNukfM-BgrrIbv0eEy-YcHyU9EkrGKZ/view?usp=drive_link)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📩 Email](mailto:michaellin0902@gmail.com)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)
 
 
 &nbsp;
@@ -39,19 +31,22 @@ Sorry, the source code for this project is not available.
 ### 👨‍💻 Personal Projects
 ---
 
+
+**Running DOOM on the DE1-SoC**
+- Developed SystemVerilog FPGA modules to carry out hardware-accelerated graphics rendering functions via CPU shared memory
+- Modified the original DOOM source code (in C) to be compilable on the DE1-SoC's ARM Cortex A9 processor
+- Loaded a Linux kernel onto the DE1-SoC and constructed a loadable kernel module to reserve memory space on the CPU for shared access
+- Added functionality to custom ported DOOM code to take advantage of these hardware-accelerated FPGA modules
+- Integrated FPGA system with Intel Quartus' Platform Designer for modularized, swappable design
+- Debugged the system at integration time with GNU GDB (CPU side) and Intel Signal Tap logic analyzer (FPGA side)
+
+&nbsp;
+
 **[Python Typing Game with a GUI, Scores, and Live Feedback](https://github.com/m1chellelinn/typing-game)**
 - Built a live-responding graphical typing game to expand Python knowledge and exercise programming best practices
 - Leveraged TkInter library knowledge to construct an efficient, responsive GUI for the typing game 
 - Designed optimized algorithms to compute and display user statistics in real time without consuming significant system resources
 - Employed unit tests, virtual environments, and Docstrings to ensure code correctness, readability, and changeability
-
-&nbsp;
-
-**🚧Running DOOM on the DE1-SoC**
-
-Note: this project is currently a work-in-progress.
-- Aiming to run DOOM on the DE1-SoC board, which features a Cyclone V chip, containing an ARM Cortex A-9 processor and an FPGA fabric
-- Researching ways to run the game logic on the ARM processor, while the FPGA handles rendering
 
 &nbsp;
 
