@@ -1,5 +1,4 @@
-
-Below, you can find the details of most (if not all) of my projects. Thanks for visiting!
+**Below, you can find the details of most (if not all) of my projects. Thanks for visiting!**
 
 
 ### [🖊️ Resume](https://drive.google.com/file/d/1RpNukfM-BgrrIbv0eEy-YcHyU9EkrGKZ/view?usp=drive_link)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📩 Email](mailto:michaellin0902@gmail.com)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)
@@ -16,10 +15,10 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 
 
 **Running DOOM on the DE1-SoC**
-- Developed SystemVerilog FPGA modules to carry out hardware-accelerated graphics rendering functions via CPU shared memory
 - Modified the original DOOM source code (in C) to be compilable on the DE1-SoC's ARM Cortex A9 processor
 - Loaded a Linux kernel onto the DE1-SoC and constructed a loadable kernel module to reserve memory space on the CPU for shared access w/ FPGA
-- Added functionality to custom ported DOOM code to take advantage of these hardware-accelerated FPGA modules
+- Developed SystemVerilog FPGA modules to carry out hardware-accelerated graphics rendering functions via CPU shared memory
+- Added functionality to custom-ported DOOM code to take advantage of these hardware-accelerated FPGA modules
 - Integrated FPGA system with Intel Quartus' Platform Designer for modularized, swappable design
 - Debugged the system at integration time with GNU GDB (CPU side) and Intel Signal Tap logic analyzer (FPGA side)
 
