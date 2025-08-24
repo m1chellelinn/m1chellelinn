@@ -14,8 +14,12 @@
 ---
 
 
-**Running DOOM on the DE1-SoC**
-- Modified the original DOOM source code (in C) to be compilable on the DE1-SoC's ARM Cortex A9 processor
+**Running DOOM (and Snake) on the DE1-SoC**
+Source code: 
+- [FPGA modules for DOOM and Snake, and C++ source code for Snake](https://github.com/m1chellelinn/de1_system)
+- [C DOOM source code](https://github.com/m1chellelinn/de1_doom)
+Summary:
+- Modified the original [DOOM source code (in C)](https://github.com/id-Software/DOOM) to be compilable on the DE1-SoC's ARM Cortex A9 processor
 - Loaded a Linux kernel onto the DE1-SoC and constructed a loadable kernel module to reserve memory space on the CPU for shared access w/ FPGA
 - Developed SystemVerilog FPGA modules to carry out hardware-accelerated graphics rendering functions via CPU shared memory
 - Added functionality to custom-ported DOOM code to take advantage of these hardware-accelerated FPGA modules
