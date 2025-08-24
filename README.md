@@ -54,6 +54,8 @@ Sorry, the source code for this project is not available.
 - Leveraged AWS services and embedded C++ utilities to enable rapid firmware deployment and verification
 - Optimized and increased USB-Serial data processing speed by 80% (compared to previous tools) to enable faster insights 
 
+
+<!-- 
 &nbsp;
 
 ### ☀️ UBC Solar Projects
@@ -77,6 +79,7 @@ Sorry, the source code for this project is not available.
 - Led the design of a custom 3D-printed water-tight enclosure to cover a vulnerable & critical circuit board on the Solar car battery.
 - Applied problem-solving skills by resolving difficult design elements demanded by electronics team.
 - Efficiently communicated design choices, feasibility, and performance to team executives.
+-->
 
 
 
@@ -131,4 +134,3 @@ Sorry, the source code for this project is not available.
 **Simon Says on Arduino, APSC160**
 - Implemented embedded C program on an Arduino to play a game of Simon Says with LEDs, switches, and buttons
 - Accelerated coding process and eliminated debugging time by creating program flowcharts 
-
