@@ -15,6 +15,7 @@
 
 
 **Running DOOM (and Snake) on the DE1-SoC**
+
 Source code:
 - [FPGA modules for DOOM and Snake, and C++ source code for Snake](https://github.com/m1chellelinn/de1_system)
 - [C DOOM source code](https://github.com/m1chellelinn/de1_doom)
