@@ -10,6 +10,30 @@ Below, you can find the details of most (if not all) of my projects. Thanks for 
 
 # All My Past & Current Projects
 
+
+### 👨‍💻 Personal Projects
+---
+
+
+**Running DOOM on the DE1-SoC**
+- Developed SystemVerilog FPGA modules to carry out hardware-accelerated graphics rendering functions via CPU shared memory
+- Modified the original DOOM source code (in C) to be compilable on the DE1-SoC's ARM Cortex A9 processor
+- Loaded a Linux kernel onto the DE1-SoC and constructed a loadable kernel module to reserve memory space on the CPU for shared access w/ FPGA
+- Added functionality to custom ported DOOM code to take advantage of these hardware-accelerated FPGA modules
+- Integrated FPGA system with Intel Quartus' Platform Designer for modularized, swappable design
+- Debugged the system at integration time with GNU GDB (CPU side) and Intel Signal Tap logic analyzer (FPGA side)
+
+&nbsp;
+
+**[Python Typing Game with a GUI, Scores, and Live Feedback](https://github.com/m1chellelinn/typing-game)**
+- Built a live-responding graphical typing game to expand Python knowledge and exercise programming best practices
+- Leveraged TkInter library knowledge to construct an efficient, responsive GUI for the typing game 
+- Designed optimized algorithms to compute and display user statistics in real time without consuming significant system resources
+- Employed unit tests, virtual environments, and Docstrings to ensure code correctness, readability, and changeability
+
+&nbsp;
+
+
 ### 🏊 [FORM Swim](https://www.formswim.com/) Projects
 ---
 
@@ -24,29 +48,6 @@ Sorry, the source code for this project is not available.
 - Developed a proprietary Bluetooth Low-Energy (BLE) Python API for FORM devices to facilitate remote control & file transfer 
 - Leveraged AWS services and embedded C++ utilities to enable rapid firmware deployment and verification
 - Optimized and increased USB-Serial data processing speed by 80% (compared to previous tools) to enable faster insights 
-
-&nbsp;
-
-
-### 👨‍💻 Personal Projects
----
-
-
-**Running DOOM on the DE1-SoC**
-- Developed SystemVerilog FPGA modules to carry out hardware-accelerated graphics rendering functions via CPU shared memory
-- Modified the original DOOM source code (in C) to be compilable on the DE1-SoC's ARM Cortex A9 processor
-- Loaded a Linux kernel onto the DE1-SoC and constructed a loadable kernel module to reserve memory space on the CPU for shared access
-- Added functionality to custom ported DOOM code to take advantage of these hardware-accelerated FPGA modules
-- Integrated FPGA system with Intel Quartus' Platform Designer for modularized, swappable design
-- Debugged the system at integration time with GNU GDB (CPU side) and Intel Signal Tap logic analyzer (FPGA side)
-
-&nbsp;
-
-**[Python Typing Game with a GUI, Scores, and Live Feedback](https://github.com/m1chellelinn/typing-game)**
-- Built a live-responding graphical typing game to expand Python knowledge and exercise programming best practices
-- Leveraged TkInter library knowledge to construct an efficient, responsive GUI for the typing game 
-- Designed optimized algorithms to compute and display user statistics in real time without consuming significant system resources
-- Employed unit tests, virtual environments, and Docstrings to ensure code correctness, readability, and changeability
 
 &nbsp;
 
