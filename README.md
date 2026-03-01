@@ -1,7 +1,7 @@
 **Below, you can find the details of most (if not all) of my projects. Thanks for visiting!**
 
 
-### [🖊️ Resume](https://drive.google.com/file/d/1RpNukfM-BgrrIbv0eEy-YcHyU9EkrGKZ/view?usp=drive_link)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📩 Email](mailto:michaellin0902@gmail.com)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)
+### [🖊️ Resume](https://drive.google.com/file/d/11js7rcsy30YuoScV4xgHg9UeLKzUwJum/view?usp=sharing)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📩 Email](mailto:michaellin0902@gmail.com)&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;[📘 LinkedIn](https://www.linkedin.com/in/lisong-michael-lin/)
 
 
 &nbsp;
